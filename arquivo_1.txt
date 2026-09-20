@@ -1,0 +1,7 @@
+{
+  "tool": "vercel.createProject",
+  "params": {
+    "name": "quiz-site",
+    "framework": null
+  }
+}
